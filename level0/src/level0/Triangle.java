@@ -37,6 +37,4 @@ Arrays 의 sort 메서드를 이용해 정렬한 후 인덱스 번호로만 구�
  
   Arrays.sort(sides);
   return sides[2] >= sides[0]+sides[1] ? 2 : 1;
- 
- 
  */
